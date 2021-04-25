@@ -4,7 +4,6 @@
 */
 
 import QtQuick 2.12
-import QtQuick.Controls 1.4 as Controls1
 import QtQuick.Controls 2.12 as Controls
 import QtQuick.Layouts 1.12
 
