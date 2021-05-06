@@ -1,6 +1,8 @@
 # DayKountdown
 
-# Note: This repository is now part of the [Plasma Mobile](https://www.plasma-mobile.org/) namespace on KDE's Invent GitLab instance. It can be found [here](https://invent.kde.org/plasma-mobile/daykountdown). This repository is no longer in use.
+# Note: This repository is now part of the [Plasma Mobile](https://www.plasma-mobile.org/) namespace on KDE's Invent GitLab instance. It can be found [here](https://invent.kde.org/plasma-mobile/daykountdown). 
+
+# This repository is no longer in use.
 
 A date countdown app written in QML/Kirigami and C++, for use with KDE Plasma on Linux.
 
